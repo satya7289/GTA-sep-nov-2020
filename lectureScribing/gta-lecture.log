@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.7)  20 SEP 2020 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.7)  20 SEP 2020 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -782,7 +782,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 <./2/eular_circuit.jpg, id=96, 1899.095pt x 3225.04875pt>
 File: ./2/eular_circuit.jpg Graphic file (type jpg)
 <use ./2/eular_circuit.jpg>
-Package pdftex.def Info: ./2/eular_circuit.jpg  used on input line 178.
+Package pdftex.def Info: ./2/eular_circuit.jpg  used on input line 184.
 (pdftex.def)             Requested size: 189.92062pt x 322.52377pt.
  [4 <./2/eular_circuit.jpg>]) [5]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8.
@@ -798,7 +798,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8.
 Here is how much of TeX's memory you used:
  19401 strings out of 483183
  358771 string characters out of 5966293
- 599531 words of memory out of 5000000
+ 598531 words of memory out of 5000000
  33967 multiletter control sequences out of 15000+600000
  546836 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -815,7 +815,7 @@ ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti8.pfb>
-Output written on gta-lecture.pdf (5 pages, 1091232 bytes).
+Output written on gta-lecture.pdf (5 pages, 1091271 bytes).
 PDF statistics:
  161 PDF objects out of 1000 (max. 8388607)
  139 compressed objects within 2 object streams
