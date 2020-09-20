@@ -1,0 +1,14 @@
+\BOOKMARK [0][-]{chapter.2}{Graph Theory And Application}{}% 1
+\BOOKMARK [1][-]{section.2.1}{Connection in Graphs}{chapter.2}% 2
+\BOOKMARK [2][-]{subsection.2.1.1}{Walk}{section.2.1}% 3
+\BOOKMARK [2][-]{subsection.2.1.2}{Connected and Disconnected Graph}{section.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.1.3}{Union of graphs}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.4}{Cut Vertex and Cut Edge}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.5}{Theorem}{section.2.1}% 7
+\BOOKMARK [1][-]{section.2.2}{Bipartite Graph}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.1}{Proposition}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.2}{Theorem}{section.2.2}% 10
+\BOOKMARK [1][-]{section.2.3}{Eulerian Circuit}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.3.1}{Theorem}{section.2.3}% 12
+\BOOKMARK [1][-]{section.2.4}{Vertex Degree and Counting}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{Handshaking Lemma}{section.2.4}% 14
